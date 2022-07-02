@@ -26,7 +26,7 @@
 - HackerEarth Online Judge Problem Solves: https://github.com/mahfuz1703/HackerEarth-Problem-Solve
 - LightOJ Online Judge Problem Solves: https://github.com/mahfuz1703/LightOJ-Problem-Solves
 
-## Most Popular Project 👋:
+## Most Popular Projects 👋:
 
 
 
