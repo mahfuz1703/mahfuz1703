@@ -27,8 +27,8 @@
 - HackerEarth Online Judge Problem Solves: https://github.com/mahfuz1703/HackerEarth-Problem-Solve
 - LightOJ Online Judge Problem Solves: https://github.com/mahfuz1703/LightOJ-Problem-Solves
 
-## Most Popular Projects 👋:
-
+## My Earned Badges 👋:
+[![@mahfuz1703's Holopin board](https://holopin.me/mahfuz1703)](https://holopin.io/@mahfuz1703)
 
 
 ## 🥰🥰 Thank You For Visit My Profile 🥰🥰
