@@ -19,13 +19,12 @@
 
 ## My Activitys 👋:
 
-- BEE CROWD Online Judge Problem Solves: https://github.com/mahfuz1703/URI-Online-Judge-Problem-Solve
-- CodeForces Online Judge Problem Solves: https://github.com/mahfuz1703/codeforces-online-judge-problem-solves
-- LeetCode Online Judge Problem Solves: https://github.com/mahfuz1703/LeetCode-Problem-Solves
-- CodeChef Online Judge Problem Solves: https://github.com/mahfuz1703/CodeChef-Problem-Solves
-- HackerRank Online Judge Problem Solves: https://github.com/mahfuz1703/HackerRank-Problem_Solves
-- HackerEarth Online Judge Problem Solves: https://github.com/mahfuz1703/HackerEarth-Problem-Solve
-- LightOJ Online Judge Problem Solves: https://github.com/mahfuz1703/LightOJ-Problem-Solves
+- BEE CROWD Online Judge Problem Solves: https://github.com/mahfuz1703/Problem-Solving/tree/main/BeeCrowed
+- CodeForces Online Judge Problem Solves: https://github.com/mahfuz1703/Problem-Solving/tree/main/Code%20Forces
+- LeetCode Online Judge Problem Solves: https://github.com/mahfuz1703/Problem-Solving/tree/main/Leet%20Code
+- CodeChef Online Judge Problem Solves: https://github.com/mahfuz1703/Problem-Solving/tree/main/CodeChef
+- HackerRank Online Judge Problem Solves: https://github.com/mahfuz1703/Problem-Solving/tree/main/Hacker%20Rank
+- LightOJ Online Judge Problem Solves: https://github.com/mahfuz1703/Problem-Solving/tree/main/LightOJ
 
 ## My Earned Badges 👋:
 [![@mahfuz1703's Holopin board](https://holopin.me/mahfuz1703)](https://holopin.io/@mahfuz1703)
