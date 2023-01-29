@@ -1,4 +1,4 @@
-![I am Front-End Developer](https://media-exp1.licdn.com/dms/image/C4D16AQF27fsQ3OzcJg/profile-displaybackgroundimage-shrink_350_1400/0/1654949538931?e=1675296000&v=beta&t=qFXTkz-g3O-6Ham0oLEnUk5LN94sEAXNhxQhSwbb7JU)
+![I am Front-End Developer](https://www.canva.com/design/DAFDTFmEs0U/lYX0T-sdxwA_mEiisNNJrw/view?utm_content=DAFDTFmEs0U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Hi there 👋, my name is Mahfuz Mia
 #### I am Front-End Developer. I am studying in the Computer Science and Engineering (CSE) Department of Bangladesh University of Business and Technology. So far I have learned C & C++  programming language from my University. I'm learning Full-stack Web Development from "Interactive Cares". So far I have learned the Front-End Development with React and learning Back-End Development with Django. I'm also working as a Front-End Developer in  Fiverr & Upwork Marketplace. 
