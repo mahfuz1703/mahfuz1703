@@ -1,7 +1,7 @@
 ![I am Front-End Developer](https://media.licdn.com/dms/image/D5616AQHjVQRsc7WrIg/profile-displaybackgroundimage-shrink_350_1400/0/1675020409671?e=1680739200&v=beta&t=gwCOTkieZeBMI17w1z-9V-KWmlFBx6gY8sOlA12Qop0)
 
 # Hi there 👋, my name is Mahfuz Mia
-#### I am Front-End Developer. I am studying in the Computer Science and Engineering (CSE) Department of Bangladesh University of Business and Technology. So far I have learned C & C++  programming language from my University. I'm learning Full-stack Web Development from "Interactive Cares". So far I have learned the Front-End Development with React and learning Back-End Development with Django. I'm also working as a Front-End Developer in  Fiverr & Upwork Marketplace. 
+#### I am Web Developer. I am studying in the Computer Science and Engineering (CSE) Department of Bangladesh University of Business and Technology. So far I have learned C & C++  programming language from my University. I'm learning Full-stack Web Development from "Interactive Cares". So far I have learned the Front-End Development with React, Back-End Development with Django, and server I used MySQL. 
 
 ## Technology: HTML / CSS / BOOTSTRAP / JAVASCRIPT / REACT / C / C++
 
