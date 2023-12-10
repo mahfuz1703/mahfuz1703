@@ -9,7 +9,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://mahfuzmia.netlify.app/">Mahfuz Mia</a></b>
+                <b><a {target="_blank"} href="https://mahfuzmia.netlify.app/">Mahfuz Mia</a></b>
         </samp>
 </h3>
 
@@ -27,7 +27,7 @@
 
 <!-- Contact section -->
 <p align="center">
- <a href="https://mahfuzmia.netlify.app/" target="blank">
+ <a href="https://mahfuzmia.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Mahfuz Mia" />
  </a>
  <a href="https://linkedin.com/in/mahfuz-mia" target="_blank">
