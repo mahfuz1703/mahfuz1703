@@ -54,13 +54,12 @@
 <p>
  <img align="right" width="350" src="assets/programmer.png" alt="Coding gif" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: sayhello.mahfuz@gmail.com<br/><br/>
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/><br/>
+ 📧 &emsp; Reach me anytime: sayhello.mahfuz@gmail.com<br/><br/><br/>
  💬 &emsp; Ask me about anything [here](https://www.linkedin.com/in/mahfuz-mia/)
-
 </p>
-
+<br/>
 <br/>
 <br/>
 <br/>
