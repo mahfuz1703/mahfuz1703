@@ -97,7 +97,7 @@
 ## Achievements
 <p>
   
- ✌️ &emsp; 600+ ACM [Problems solved](https://github.com/mahfuz1703/Problem-Solving) in different Online Judges
+ ✌️ &emsp; 850+ ACM [Problems solved](https://github.com/mahfuz1703/Problem-Solving) in different Online Judges
 
  ✌️ &emsp; [Codeforces](https://codeforces.com/profile/mahfuzmia1703) (max: Pupil, 1217)
 
