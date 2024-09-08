@@ -9,7 +9,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a href="https://mahfuzmia.netlify.app/">Mahfuz Mia</a></b>
+                <b><a href="https://mahfuzmia.vercel.app/">Mahfuz Mia</a></b>
         </samp>
 </h3>
 
