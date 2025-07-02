@@ -9,7 +9,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a href="https://mahfuzmia.vercel.app/">Mahfuz Mia</a></b>
+                <b><a href="https://mahfuzmia.me/">Mahfuz Mia</a></b>
         </samp>
 </h3>
 
@@ -18,7 +18,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Mahfuz+Mia">「 Google Me 」</a>
     <br>
-    「 I'm a <b> Web Developer </b> and <b>Competitive Programmer</b> 」
+    「 I'm a <b> Aspiring Software Engineer </b> and <b>Competitive Programmer</b> 」
     <br>
     <br>
   </samp>
@@ -27,7 +27,7 @@
 
 <!-- Contact section -->
 <p align="center">
- <a href="https://mahfuzmia.vercel.app/" target="_blank">
+ <a href="https://mahfuzmia.me/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Mahfuz Mia" />
  </a>
  <a href="https://linkedin.com/in/mahfuz-mia" target="_blank">
@@ -97,11 +97,11 @@
 ## Achievements
 <p>
   
- ✌️ &emsp; 850+ ACM [Problems solved](https://github.com/mahfuz1703/Problem-Solving) in different Online Judges
+ ✌️ &emsp; 1300+ ACM [Problems solved](https://github.com/mahfuz1703/Problem-Solving) in different Online Judges
 
  ✌️ &emsp; [Codeforces](https://codeforces.com/profile/mahfuzmia1703) (max: Pupil, 1217)
 
- ✌️ &emsp; [Codechef](https://www.codechef.com/users/mahfuzmia1703) (max: 2*, 1454)
+ ✌️ &emsp; [Codechef](https://www.codechef.com/users/mahfuzmia1703) (max: 2*, 1493)
 
  ✌️ &emsp; [Leetcode](https://www.codechef.com/users/mahfuzmia1703) (max: 1451)
 
